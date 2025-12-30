@@ -56,7 +56,7 @@ Open to collaborate on:
 <!-- 🌌 BANNER -->
 <!-- Generate your own banner here: https://capsule-render.vercel.app/ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:00d4ff,100:090979&text=Somesh%20Patankar&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:00d4ff,100:090979&text=TheekHainBhai&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlignY=35" />
 </p>
 
 ---
@@ -64,12 +64,12 @@ Open to collaborate on:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SomeshPatankar&theme=radical&show_icons=true&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SomeshPatankar&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheekHainBhai&theme=radical&show_icons=true&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheekHainBhai&theme=radical" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshPatankar&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheekHainBhai&layout=compact&theme=radical" height="180" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ Open to collaborate on:
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SomeshPatankar/SomeshPatankar/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/TheekHainBhai/TheekHainBhai/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
