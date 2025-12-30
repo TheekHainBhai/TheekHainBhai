@@ -16,10 +16,10 @@
 
 ### 🛠️ Tech Stack & Tools
 #### **Languages**
-`C` `C++` `Java` `JavaScript` `TypeScript` `Dart`  
+`C` `C++` `Java` `JavaScript` `TypeScript`
 
 #### **Frameworks & Libraries**
-`React` `Next.js` `Node.js` `Express.js` `Flutter`
+`React` `Next.js` `Node.js` `Express.js`
 
 #### **Databases**
 `PostgreSQL` `MongoDB` `MySQL`
