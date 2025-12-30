@@ -62,15 +62,14 @@ Open to collaborate on:
 ---
 
 ---
-
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats-git-master-theekhainbhai-projects.vercel.app/api?username=TheekHainBhai&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-git-master-TheekHainBhai-projects.vercel.app/api?username=TheekHainBhai&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheekHainBhai&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-theekhainbhai-projects.vercel.app/api/top-langs/?username=TheekHainBhai&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-git-master-TheekHainBhai-projects.vercel.app/api/top-langs/?username=TheekHainBhai&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 
