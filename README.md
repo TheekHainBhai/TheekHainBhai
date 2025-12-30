@@ -61,26 +61,33 @@ Open to collaborate on:
 
 ---
 
-### 📊 GitHub Stats
+---
+
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheekHainBhai&theme=radical&show_icons=true&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheekHainBhai&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheekHainBhai&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheekHainBhai&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheekHainBhai&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheekHainBhai&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheekHainBhai/TheekHainBhai/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/TheekHainBhai/TheekHainBhai/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheekHainBhai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 
+---
