@@ -1,3 +1,6 @@
+
+<img src="https://github-readme-stats.vercel.app/api?username=TheekHainBhai&show_icons=true" />
+
 👋 Hey! I’m Somesh Patankar
 🚀 Final Year B.E. Computer Engineering Student
 
