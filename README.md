@@ -39,7 +39,7 @@
 
 - 🌐 Deploying full-stack apps on AWS  
 - ⚙️ CI/CD with zero-downtime restarts  
-- 📱 Flutter apps backed by real APIs  
+- 📱 React Native apps backed by real APIs  
 - 🧩 System design, caching & scaling  
 - 🛠️ Debugging memory, disk, proxy & upload issues  
 
