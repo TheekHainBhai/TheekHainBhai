@@ -1,92 +1,75 @@
-# 👋 Hey! I'm Somesh Patankar
+👋 Hey! I’m Somesh Patankar
+🚀 Final Year B.E. Computer Engineering Student
 
-### 🚀 Final Year B.E. Computer Engineering Student  
-**Learning by Building | AI-assisted Engineering | Web & Mobile Dev**
+Learning by Building • AI-assisted Engineering • Web, Mobile & Cloud
 
----
+👨‍💻 About Me
 
-### 👨‍💻 About Me
-- 🎯 Passionate about **Web, Mobile & Cloud Engineering**
-- 🌱 Currently exploring **DevOps, CI/CD, and AWS**
-- 🤖 Using **AI IDE workflows** to accelerate development & learn faster
-- 🧠 I enjoy **debugging, troubleshooting systems & solving real problems**
-- 💬 Ask me about **Express.js, PostgreSQL, Flutter, AWS EC2 Deployments**
+🎯 Focused on Web, Mobile & Cloud Engineering
 
----
+🌱 Actively working with DevOps, CI/CD, AWS & Linux-based deployments
 
-### 🛠️ Tech Stack & Tools
-#### **Languages**
-`C` `C++` `Java` `JavaScript` `TypeScript`
+🤖 Using AI-assisted IDE workflows to build faster and learn deeper
 
-#### **Frameworks & Libraries**
-`React` `Next.js` `Node.js` `Express.js`
+🧠 I enjoy debugging production issues, system troubleshooting & performance tuning
 
-#### **Databases**
-`PostgreSQL` `MongoDB` `MySQL`
+💬 Ask me about Express.js, PostgreSQL, Flutter, NGINX, PM2, AWS EC2 deployments
 
-#### **DevOps / Cloud**
-`AWS EC2` `NGINX` `PM2` `Redis` `GitHub Actions`  
-`CI/CD Pipelines` `S3` *(learning more…)*
+🛠️ Tech Stack & Tools
+Languages
 
----
+C C++ Java JavaScript TypeScript
 
-### 🔭 Current Work
-- 🌐 Deploying **full-stack apps on AWS with CI/CD**
-- 📱 Building **mobile apps with Flutter**
-- 🧰 Improving skills in **system design & scalable architecture**
+Frameworks & Libraries
 
----
+React Next.js Node.js Express.js
+Flutter (mobile apps)
 
-### 🤝 Collaboration
-Open to collaborate on:
-- Web & Mobile products
-- Backend APIs
-- Projects involving **real deployments & automation**
+Databases
 
----
+PostgreSQL MongoDB MySQL
 
-### 🌐 Connect with Me
-[📷 Instagram](https://instagram.com/theek_hain_bhai) • [💼 LinkedIn](https://linkedin.com/) *(add your links if you want)*
+DevOps / Cloud
 
----
+AWS EC2 NGINX PM2 Redis
+GitHub Actions CI/CD Pipelines
+Linux S3 (actively improving)
 
-> _“Modern engineering is decision-making, not just typing code.”_  
-> Learning fast, building fast, and enjoying the journey 🚀
+🔭 What I’m Currently Doing
 
-<!-- 🌌 BANNER -->
-<!-- Generate your own banner here: https://capsule-render.vercel.app/ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:00d4ff,100:090979&text=TheekHainBhai&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlignY=35" />
-</p>
+🌐 Deploying full-stack production apps on AWS
 
----
+⚙️ Designing CI/CD pipelines with zero-downtime restarts
 
----
-## 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats-git-master-TheekHainBhai-projects.vercel.app/api?username=TheekHainBhai&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheekHainBhai&theme=tokyonight&hide_border=true" height="180" />
-</p>
+📱 Building Flutter mobile apps backed by real APIs
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-TheekHainBhai-projects.vercel.app/api/top-langs/?username=TheekHainBhai&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
+🧩 Learning system design, caching, scaling & infra trade-offs
 
+🛠️ Debugging real production issues (memory, disk, proxy, uploads)
 
----
+🤝 Collaboration
 
-## 🐍 Contribution Graph
+I’m open to collaborating on:
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TheekHainBhai/TheekHainBhai/output/github-contribution-grid-snake-dark.svg" />
-</p>
+Full-stack web & mobile products
 
----
+Backend APIs & system design
 
-## 🏆 GitHub Trophies
+Projects involving real deployments, automation & infrastructure
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheekHainBhai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
+🌐 Connect with Me
 
----
+📷 Instagram: @theek_hain_bhai
+
+💼 LinkedIn: (add when ready)
+
+“Modern engineering is about decisions, not just code.”
+Building fast • breaking things • fixing them better 🚀
+
+<!-- 🌌 BANNER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:00d4ff,100:090979&text=TheekHainBhai&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlignY=35" /> </p>
+📊 GitHub Stats & Activity
+<p align="center"> <img src="https://github-readme-stats-git-master-TheekHainBhai-projects.vercel.app/api?username=TheekHainBhai&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheekHainBhai&theme=tokyonight&hide_border=true" height="180" /> </p> <p align="center"> <img src="https://github-readme-stats-git-master-TheekHainBhai-projects.vercel.app/api/top-langs/?username=TheekHainBhai&layout=compact&theme=tokyonight&hide_border=true" height="180" /> </p>
+🐍 Contribution Graph
+<p align="center"> <img src="https://raw.githubusercontent.com/TheekHainBhai/TheekHainBhai/output/github-contribution-grid-snake-dark.svg" /> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=TheekHainBhai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" /> </p>
