@@ -1,6 +1,6 @@
 # 👋 Hey! I’m Somesh Patankar
 
-###B.E. Computer Engineer  
+### B.E. Computer Engineer  
 **Learning by Building**  
 **AI-assisted Engineering**  
 **Web, Mobile & Cloud**
