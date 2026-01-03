@@ -24,7 +24,6 @@
 
 **Frameworks & Libraries**  
 `React` · `Next.js` · `Node.js` · `Express.js`  
-`Flutter` *(mobile)*
 
 **Databases**  
 `PostgreSQL` · `MongoDB` · `MySQL`
