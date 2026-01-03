@@ -69,7 +69,11 @@ Building fast • breaking things • fixing them better 🚀
 <!-- 🌌 BANNER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:00d4ff,100:090979&text=TheekHainBhai&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlignY=35" /> </p>
 📊 GitHub Stats & Activity
 <p align="center"> <img src="https://github-readme-stats-git-master-TheekHainBhai-projects.vercel.app/api?username=TheekHainBhai&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheekHainBhai&theme=tokyonight&hide_border=true" height="180" /> </p> <p align="center"> <img src="https://github-readme-stats-git-master-TheekHainBhai-projects.vercel.app/api/top-langs/?username=TheekHainBhai&layout=compact&theme=tokyonight&hide_border=true" height="180" /> </p>
-🐍 Contribution Graph
-<p align="center"> <img src="https://raw.githubusercontent.com/TheekHainBhai/TheekHainBhai/output/github-contribution-grid-snake-dark.svg" /> </p>
+
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheekHainBhai/TheekHainBhai/output/dist/github-contribution-grid-snake-dark.svg" />
+</p>
+
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=TheekHainBhai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" /> </p>
