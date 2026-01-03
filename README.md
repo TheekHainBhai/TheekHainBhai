@@ -63,8 +63,14 @@ Projects involving real deployments, automation & infrastructure
 
 💼 LinkedIn: (add when ready)
 
-“Modern engineering is about decisions, not just code.”
-Building fast • breaking things • fixing them better 🚀
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheekHainBhai/TheekHainBhai/output/dist/github-contribution-grid-snake-dark.svg" />
+</p>
+
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=TheekHainBhai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" /> </p>
+
 
 ## 🖥️ Terminal
 
@@ -81,10 +87,3 @@ building • breaking • fixing • shipping
 $ uptime
 learning continuously 🚀
 
-## 🐍 Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TheekHainBhai/TheekHainBhai/output/dist/github-contribution-grid-snake-dark.svg" />
-</p>
-
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=TheekHainBhai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" /> </p>
