@@ -67,8 +67,26 @@ Projects involving real deployments, automation & infrastructure
 Building fast • breaking things • fixing them better 🚀
 
 <!-- 🌌 BANNER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:00d4ff,100:090979&text=TheekHainBhai&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlignY=35" /> </p>
-📊 GitHub Stats & Activity
-<p align="center"> <img src="https://github-readme-stats-git-master-TheekHainBhai-projects.vercel.app/api?username=TheekHainBhai&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheekHainBhai&theme=tokyonight&hide_border=true" height="180" /> </p> <p align="center"> <img src="https://github-readme-stats-git-master-TheekHainBhai-projects.vercel.app/api/top-langs/?username=TheekHainBhai&layout=compact&theme=tokyonight&hide_border=true" height="180" /> </p>
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=TheekHainBhai&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=TheekHainBhai&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheekHainBhai&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
 
 ## 🐍 Contribution Graph
 <p align="center">
