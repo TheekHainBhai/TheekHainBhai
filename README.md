@@ -1,6 +1,3 @@
-
-<img src="https://github-readme-stats.vercel.app/api?username=TheekHainBhai&show_icons=true" />
-
 👋 Hey! I’m Somesh Patankar
 🚀 Final Year B.E. Computer Engineering Student
 
@@ -69,27 +66,20 @@ Projects involving real deployments, automation & infrastructure
 “Modern engineering is about decisions, not just code.”
 Building fast • breaking things • fixing them better 🚀
 
-<!-- 🌌 BANNER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:00d4ff,100:090979&text=TheekHainBhai&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlignY=35" /> </p>
-## 📊 GitHub Stats & Activity
+## 🖥️ Terminal
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=TheekHainBhai&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=TheekHainBhai&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+```bash
+$ whoami
+somesh-patankar
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheekHainBhai&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+$ role
+backend / cloud / devops
 
+$ status
+building • breaking • fixing • shipping
+
+$ uptime
+learning continuously 🚀
 
 ## 🐍 Contribution Graph
 <p align="center">
