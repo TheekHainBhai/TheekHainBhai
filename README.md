@@ -1,6 +1,6 @@
 # 👋 Hey! I’m Somesh Patankar
 
-### 🚀 Final Year B.E. Computer Engineering Student  
+###B.E. Computer Engineer  
 **Learning by Building**  
 **AI-assisted Engineering**  
 **Web, Mobile & Cloud**
