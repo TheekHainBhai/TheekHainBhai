@@ -2,7 +2,6 @@
 
 ### B.E. Computer Engineer  
 **Learning by Building**  
-**AI-assisted Engineering**  
 **Web, Mobile & Cloud**
 
 ---
@@ -10,17 +9,16 @@
 ## 👨‍💻 About Me
 
 - 🎯 Web, Mobile & Cloud Engineering  
-- 🌱 DevOps, CI/CD, AWS & Linux deployments  
-- 🤖 AI-assisted IDE workflows  
+- 🌱 DevOps, CI/CD, AWS & Linux deployments    
 - 🧠 Debugging production issues & system tuning  
-- 💬 Express.js, PostgreSQL, Flutter, NGINX, PM2, AWS EC2  
+- 💬 Express.js, PostgreSQL, NGINX, PM2, AWS EC2  
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 **Languages**  
-`C` · `C++` · `Java` · `JavaScript` · `TypeScript`
+`JavaScript` · `TypeScript`
 
 **Frameworks & Libraries**  
 `React` · `Next.js` · `Node.js` · `Express.js`  
